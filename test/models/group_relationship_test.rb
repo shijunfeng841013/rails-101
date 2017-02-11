@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class GroupRelationshiopTest < ActiveSupport::TestCase
+class GroupRelationshipTest < ActiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end
